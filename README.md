@@ -8,7 +8,7 @@ Broadly, I aspire to leverage data and assist in improving people’s lives thro
 
 ***************************
 
-Writes about Machine Learning on: [Medium](https://medium.com/@didier-i)
+Writes about Technology, Machine Learning on: [Medium](https://medium.com/@didier-i)
 
 #### Also available on:
 
