@@ -4,6 +4,8 @@ I’m Didier Iradukunda. A 2022 graduate from Carnegie Mellon University, Msc. E
 
 Previously worked as a Data Analyst at Rwanda Biomedical Center and as a Teaching Assistant at Carnegie Mellon University Africa. I have practical experience in Data exploration; Visualization, Big Data, Building Machine Learning Models and Deriving Actionable Insights from the Data. Also have over two years of experience in Telecommunication and Energy Systems.
 
+ I am proficient in tools and platforms for Data analytics including SQL, Databases, Excel, Sheets, Power BI, Tableau, R and Python.
+
 Broadly, I aspire to leverage data and assist in improving people’s lives through the increased access to sustainable and modern solutions.
 
 ***************************
